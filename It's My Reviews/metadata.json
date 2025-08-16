@@ -1,0 +1,5 @@
+{
+  "name": "It's My Reviews",
+  "description": "A web application to browse new movies, read reviews, and get links to book tickets. This is a project for an internship program, showcasing frontend skills with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
